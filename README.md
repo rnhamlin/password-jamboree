@@ -5,4 +5,4 @@ Project uses Javascript to create a password generator that allows the user to c
 ## Screenshot
 ![Screenshot](pw-jamboree.png)
 ## Link
-z
+https://rnhamlin.github.io/password-jamboree/
